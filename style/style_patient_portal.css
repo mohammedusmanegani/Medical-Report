@@ -1,0 +1,94 @@
+.nav-wrapper{
+    background-color: #1273aa;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.center{
+    font-size: 2em;
+    color: #acacac;
+}
+.header{
+    color: #1273aa;
+}
+.btn{
+    margin-left: 10px;
+}
+.btn:hover{
+    background-color: #ffffff;
+    color: #1273aa;
+}
+.my_delete_button{
+    font-size: 1.5em;
+    transition: 0.3s;
+}
+.my_delete_button:hover{
+    color: #ff0000;
+    transition: 0.3s;
+    cursor: pointer;
+}
+.page-footer{
+    background: #1273aa;
+}
+.my_social_media_icons {
+    border-radius: 50%; 
+    padding: 10px;
+    font-size: 25px;
+    width: 45px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: #fff;
+    transition: 0.5s;
+  }
+  .fa-facebook:hover{
+      background: #fff;
+      color: #3B5998;
+      transition: 0.3s;
+  }
+  .fa-linkedin {
+    background: #007bb5;
+    color: #fff;
+    transition: 0.5s;
+  }
+  .fa-linkedin:hover{
+      background: #fff;
+      color: #007bb5;
+      transition: 0.3s;
+  }
+  .fa-twitter {
+    background: #55ACEE;
+    color: #fff;
+    transition: 0.5s;
+  }
+  .fa-twitter:hover {
+    background: #fff;
+    color: #55ACEE;
+    transition: 0.3s;
+  }
+  .fa-instagram {
+    background: #125688;
+    color: #fff;
+    transition: 0.5s;
+  }
+  .fa-instagram:hover {
+    background: #fff;
+    color: #125688;
+    transition: 0.3s;
+  }
+  .delete_header{
+    color: #ff0000;
+  }
+  .excle_export_button{
+    color: green;
+  }
+  .close_button{
+    color: #ff0000;
+  }
+  .done_button{
+    color: green;
+  }
+  #getBSDetails, #getBPDetails{
+    margin: 0;
+  }

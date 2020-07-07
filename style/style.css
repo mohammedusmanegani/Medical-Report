@@ -1,0 +1,38 @@
+body{
+    margin: 10px;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url('images/publichealth.png');
+}
+.login-form{
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    background: transparent;
+}
+.login-form-submit-button{
+    margin-left: 10px;
+}
+.btn{
+    border: 1px #1273aa;
+    background-color: #1273aa;
+}
+.btn:hover{
+    background-color: #ffffff;
+    color: #1273aa;
+}
+.login-form-title{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: #1273aa;
+}
+.sign-up-button{
+    margin-right: 15px;
+    margin-top: 8px;
+}
+.sign-up-button:hover{
+    text-decoration: underline;
+}
